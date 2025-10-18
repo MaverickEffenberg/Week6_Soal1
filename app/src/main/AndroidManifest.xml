@@ -23,11 +23,6 @@
             </intent-filter>
         </activity>
 
-        <!-- Games -->
-        <activity
-            android:name=".ui.views.Soal1Activity"
-            android:exported="true" />
-
     </application>
 
 </manifest>
